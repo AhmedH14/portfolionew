@@ -2,16 +2,17 @@ $(document).ready(function () {
 
   // MODAL
   var modalText = {
-    roambi: {
-      title: 'Roambi.com',
-      tag: 'BUSINESS ANALYTICS.',
-      detail: 'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.roambi.com'
+    RoboFriends: {
+      title: 'Robo Friends',
+      tag: 'Database Search App',
+      detail: '',
+      link: 'https://ahmedh14.github.io/RoboFriends/'
     },
-    walker: {
-      title: 'WalkerTracker',
-      tag: 'PERFORMANCE METRICS.',
-      detail: 'Walker Tracker offers goal management, fitness tracking, and team competitions to companies for internal use. A Ruby on Rails and Javascript companion site for the Walker Tracker App. Features visual metrics and gamified progression system.',
+    ArcReactor: {
+      title: 'Arc Reactor',
+      tag: 'CSS Animation',
+      detail: 'Iron Mans Arc Reactor recreated using HTML and CSS',
+      link: 'https://ahmedh14.github.io/ArcReactor/'
     },
     powur: {
       title: 'Powur.com',
@@ -118,7 +119,7 @@ $(document).ready(function () {
     });
     $.each($('#modal .slide'), function (index, value) {
       $(this).css({
-        background: "url('img/slides/" + id + '-' + index + ".jpg') center center/cover",
+        background: "url('img/slides/" + id + '-' + index + ".png') center center/cover",
         backgroundSize: 'cover'
       });
 
