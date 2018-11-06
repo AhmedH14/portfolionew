@@ -243,11 +243,11 @@ body {
 }
 
 .highlight {
-  color: #E31B6D;
+  color: #FF1777;
 }
 
 .p2 {
-    color: #E31B6D;
+  color: #FF3589;
 }
 
 .header {
@@ -283,7 +283,7 @@ nav {
   position: absolute;
   height: 50px;
   width: 100%;
-  background: #1B242F;
+  background: #1B1E26;
   border-bottom: 3px solid #04C2C9;
   text-align: left;
   z-index: 99;
@@ -328,7 +328,7 @@ nav .link-wrap div:first-child {
 }
 
 nav .link-wrap div:hover {
-  color: #E31B6D;
+  color: #FF1777;
 }
 
 nav .mdi-menu {
@@ -341,7 +341,7 @@ nav .mdi-menu {
 }
 
 nav .active {
-  color: #E31B6D;
+  color: #FF1777;
 }
 
 .carousel-wrap {
@@ -1072,7 +1072,7 @@ footer .footnote {
 
 footer .footnote .highlight {
   font-family: 'Open Sans';
-  color: #E31B6D;
+  color: #FF3589;
 }
 
 @media screen and (max-width: 400px) {
