@@ -20,10 +20,10 @@ $(document).ready(function () {
       detail: 'Powur is a multi-level marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
       link: 'http://www.powur.com/with/42'
     },
-    mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
-      detail: 'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.',
+    Conurban: {
+      title: 'Conurban',
+      tag: 'Conurban Concept Landing Page.',
+      detail: 'Prototype of proposed redesign for a property company',
     },
     never: {
       title: 'NeverSurrender',
