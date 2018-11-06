@@ -247,7 +247,7 @@ body {
 }
 
 .p2 {
-  color: #FF3589;
+  color: #FF1777;
 }
 
 .header {
@@ -284,7 +284,7 @@ nav {
   height: 50px;
   width: 100%;
   background: #1B1E26;
-  border-bottom: 3px solid #04C2C9;
+  border-bottom: 3px solid #FF1777;
   text-align: left;
   z-index: 99;
 }
@@ -686,7 +686,7 @@ section:nth-of-type(2) .bar.fill {
   top: 0;
   left: 0;
   position: absolute;
-  background-color: #00A1A7;
+  background-color: #C9125E;
   padding: 0;
   opacity: 1;
 }
@@ -695,7 +695,7 @@ section:nth-of-type(2) .bar .tag {
   top: 0;
   left: 0;
   position: absolute;
-  background-color: #00A1A7;
+  background-color: #C9125E;
   color: #fff;
   height: 100%;
   width: 110px;
@@ -1072,7 +1072,7 @@ footer .footnote {
 
 footer .footnote .highlight {
   font-family: 'Open Sans';
-  color: #FF3589;
+  color: #FF1777;
 }
 
 @media screen and (max-width: 400px) {
