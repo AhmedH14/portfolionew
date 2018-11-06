@@ -856,7 +856,7 @@ section .flex-50-gt-sm {
   display: block;
 }
 
-section:nth-of-type(4) {
+/* section:nth-of-type(4) {
   padding: 130px 0 100px 0;
   text-align: left;
 }
@@ -902,43 +902,43 @@ section:nth-of-type(4) .text {
   font-size: 9pt;
   line-height: 13pt;
   max-height: 85px;
-}
+} */
 
-section:nth-of-type(5) {
+section:nth-of-type(4) {
   background: #252934;
   color: #fff;
   padding-top: 175px;
 }
 
-section:nth-of-type(5) .header {
+section:nth-of-type(4) .header {
   color: #fff;
 }
 
-section:nth-of-type(5) .header-bar {
+section:nth-of-type(4) .header-bar {
   margin: 25px 0 40px 0;
   background: #fff;
   width: 110px;
 }
 
-section:nth-of-type(5) .highlight {
+section:nth-of-type(4) .highlight {
   font-weight: 600;
   color: #04C2C9;
 }
 
-section:nth-of-type(5) svg {
+section:nth-of-type(4) svg {
   position: absolute;
   top: 0;
   left: 0;
 }
 
-section:nth-of-type(5) form {
+section:nth-of-type(4) form {
   margin: 40px auto 0 auto;
   min-width: 95%;
 }
 
-section:nth-of-type(5) input[type="text"],
-section:nth-of-type(5) input[type="email"],
-section:nth-of-type(5) textarea {
+section:nth-of-type(4) input[type="text"],
+section:nth-of-type(4) input[type="email"],
+section:nth-of-type(4) textarea {
   display: block;
   width: 100%;
   box-sizing: border-box;
@@ -951,12 +951,12 @@ section:nth-of-type(5) textarea {
   color: #fff;
 }
 
-section:nth-of-type(5) textarea {
+section:nth-of-type(4) textarea {
   min-height: 150px;
   margin-bottom: 5px;
 }
 
-section:nth-of-type(5) .button {
+section:nth-of-type(4) .button {
   float: right;
   margin: 5px 0 0 0;
   font-size: 12pt;
@@ -966,11 +966,11 @@ section:nth-of-type(5) .button {
   outline: 0;
 }
 
-section:nth-of-type(5) .button:hover {
+section:nth-of-type(4) .button:hover {
   background: #04C2C9;
 }
 
-section:nth-of-type(5) #success {
+section:nth-of-type(4) #success {
   height: 0;
   width: 100%;
   overflow: hidden;
@@ -978,11 +978,11 @@ section:nth-of-type(5) #success {
   transition: height .25s;
 }
 
-section:nth-of-type(5) #success.expand {
+section:nth-of-type(4) #success.expand {
   height: 36px;
 }
 
-section:nth-of-type(5) #success div {
+section:nth-of-type(4) #success div {
   background: #04c986;
   color: #157051;
   font-size: 10pt;
@@ -991,7 +991,7 @@ section:nth-of-type(5) #success div {
   border: 1px solid #157c59;
 }
 
-section:nth-of-type(5) #close {
+section:nth-of-type(4) #close {
   position: absolute;
   padding: 5px 15px;
   font-size: 12pt;
