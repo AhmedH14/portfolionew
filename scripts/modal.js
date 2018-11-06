@@ -11,14 +11,8 @@ $(document).ready(function () {
     ArcReactor: {
       title: 'Arc Reactor',
       tag: 'CSS Animation',
-      detail: 'Iron Mans Arc Reactor recreated using HTML and CSS',
+      detail: "Iron Man's Arc Reactor recreated using HTML and CSS",
       link: 'https://ahmedh14.github.io/ArcReactor/'
-    },
-    powur: {
-      title: 'Powur.com',
-      tag: 'MULTI-LEVEL MARKETING.',
-      detail: 'Powur is a multi-level marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
     },
     Conurban: {
       title: 'Conurban',
