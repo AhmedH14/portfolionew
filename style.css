@@ -1,5 +1,6 @@
 @font-face {
   font-family: 'Raleway', sans-serif;
+  src: '/node_modules/mdi/font/fonts/materialdesignicons-webfont.woff'
 }
 
 @keyframes fadeIn {
@@ -694,7 +695,7 @@ section:nth-of-type(2) .bar .tag {
   top: 0;
   left: 0;
   position: absolute;
-  background-color: #04C2C9;
+  background-color: #00A1A7;
   color: #fff;
   height: 100%;
   width: 110px;
@@ -1259,7 +1260,7 @@ footer .footnote .highlight {
   }
 
   section:nth-of-type(2) .bar .tag {
-    width: 110px;
+    width: 250px;
   }
 
   section:nth-of-type(2) .hexagon i {
@@ -1494,10 +1495,10 @@ footer .footnote .highlight {
   color: #979797;
 }
 
-.bar {
+/* .bar {
   background-color: #eeeeee !important;
   margin-bottom: 15px;
-}
+} */
 
 .bar-blue {
   background-color: #009dff !important;
