@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@mdi/font": "^3.0.39"
+  },
+  "devDependencies": {
+    "mixitup": "^3.3.1"
   }
 }

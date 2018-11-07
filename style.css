@@ -167,7 +167,7 @@ body {
 }
 
 .button {
-  padding: 10px 20px;
+  padding: 10px 10px;
   border: 2px solid #fff;
   box-sizing: inherit;
   display: inline-block;
@@ -560,7 +560,7 @@ section:nth-of-type(1) .hexagon:hover {
 }
 
 section:nth-of-type(1) .button {
-  padding: 12px 40px 12px 15px;
+  /* padding: 12px 40px 12px 12px; */
   position: relative;
   margin-bottom: 53px;
 }
@@ -826,9 +826,9 @@ section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
   background: url("img/slides/Conurban.png") center center/cover;
 }
 
-section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
+/* section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
   background: url("http://findmatthew.com/style/../img/thumb-4.jpg") center center/cover;
-}
+} */
 
 
 section:nth-of-type(3) #gallery .mix .card {
@@ -1192,7 +1192,7 @@ footer .footnote .highlight {
   }
 
   section:nth-of-type(1) .button {
-    padding: 12px 50px 12px 20px;
+    /* padding: 12px 50px 12px 20px; */
   }
 
   section:nth-of-type(1) .button .mdi {
