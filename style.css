@@ -687,7 +687,7 @@ section:nth-of-type(2) .bar.fill {
   top: 0;
   left: 0;
   position: absolute;
-  background-color: #C9125E;
+  background-color: #E31B6D;
   padding: 0;
   opacity: 1;
 }
@@ -696,7 +696,7 @@ section:nth-of-type(2) .bar .tag {
   top: 0;
   left: 0;
   position: absolute;
-  background-color: #C9125E;
+  background-color: #E31B6D;
   color: #fff;
   height: 100%;
   width: 110px;
@@ -1073,7 +1073,7 @@ footer .footnote {
 
 footer .footnote .highlight {
   font-family: 'Open Sans';
-  color: #FF1777;
+  color: #E31B6D;
 }
 
 @media screen and (max-width: 400px) {
