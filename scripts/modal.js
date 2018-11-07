@@ -4,7 +4,7 @@ $(document).ready(function () {
   var modalText = {
     RoboFriends: {
       title: 'Robo Friends',
-      tag: 'Database Search App',
+      tag: 'REACT + API Database Search App',
       detail: '',
       link: 'https://ahmedh14.github.io/RoboFriends/'
     },
@@ -18,17 +18,9 @@ $(document).ready(function () {
       title: 'Conurban',
       tag: 'Conurban Concept Landing Page.',
       detail: 'Prototype of proposed redesign for a property company',
+      link: 'https://ahmedh14.github.io/conurban/'
     },
-    never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
-      detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
-    },
-    themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
-      detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
-    }
+  
   };
 
   $('#gallery .button').on('click', function () {
@@ -113,7 +105,7 @@ $(document).ready(function () {
     });
     $.each($('#modal .slide'), function (index, value) {
       $(this).css({
-        background: "url('img/slides/" + id + '-' + index + ".png') center center/cover",
+        background: "url('img/slides/" + id + ".png') center center/cover",
         backgroundSize: 'cover'
       });
 
