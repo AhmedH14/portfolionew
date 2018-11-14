@@ -214,7 +214,7 @@ body {
 }
 
 .hexagon {
-  background-color: rgba(15, 61, 131, 0.979);
+  /* background-color: rgba(15, 61, 131, 0.979); */
   height: 100%;
   width: calc(100% * 0.57735);
   display: inline-block;
@@ -613,7 +613,7 @@ section:nth-of-type(2) .hexagon i {
   position: absolute;
   top: 20px;
   font-size: 34pt;
-  color: #fff;
+  /* color: #fff; */
   left: 0;
   right: 0;
   z-index: 1;
@@ -630,7 +630,7 @@ section:nth-of-type(2) .bars-wrap:not(.animated) .fill {
 }
 
 section:nth-of-type(2) .bar {
-  color: #666;
+  color: #0A2239;
   height: 22px;
   position: relative;
   background-color: #eee;
@@ -1230,7 +1230,7 @@ footer .footnote .highlight {
   }
 
   section:nth-of-type(2) .bar .tag {
-    width: 250px;
+    width: 273px;
   }
 
   section:nth-of-type(2) .hexagon i {
@@ -1385,7 +1385,7 @@ footer .footnote .highlight {
   }
 
   section:nth-of-type(2) .bar {
-    max-width: 90%;
+    max-width: 100%;
   }
 
   section:nth-of-type(2) .bullet-wrap {
